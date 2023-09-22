@@ -35,7 +35,7 @@ body  {
     margin: bottom 1em;
 }
 .botao__secundario {
-    background-color: red;
+    background-color: rgb(170, 16, 201);
     border: 2px solid var(--branco-principal);
 }
 .container_aviso{
@@ -49,3 +49,11 @@ body  {
 .container_caixa{
     margin: 0 6em;
 }
+.botao__terciario {
+    background-color: blue;
+    border-radius: 5px;
+    padding: 1em;
+    color: var(--branco-principal);
+    display: block;
+    text-decoration: none;
+    margin: bottom 1em;}
