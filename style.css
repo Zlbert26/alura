@@ -27,8 +27,8 @@ body  {
 }
 .container__botao {
     background-color: var(--botao-azul);
-    border-radius: 5px;
-    padding: 5em;
+    border-radius: 1px;
+    padding: 2em;
     color: var(--branco-principal);
     display: block;
     text-decoration: none;
