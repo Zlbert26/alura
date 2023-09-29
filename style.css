@@ -38,7 +38,7 @@ body  {
     margin-bottom: 1em;
 }
 .botao__secundario {
-    background-color: transparent;
+    background-color: aqua;
     border: 2px solid var(--branco-principal);
 }
 .container__aviso {
